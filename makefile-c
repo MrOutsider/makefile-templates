@@ -1,6 +1,6 @@
 BINARY=app
 CODE_DIR=./src/
-INCLUDE_DIR=$(CODE_DIR)
+INCLUDE_DIR=./src/
 LIB_DIRS=
 
 CC=gcc
